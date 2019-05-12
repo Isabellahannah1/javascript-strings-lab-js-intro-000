@@ -1,3 +1,3 @@
 var greeting = "Hello, everybody!";
 
-var specialGuest = "Hello, "
+var greetSpecialGuest = ""
